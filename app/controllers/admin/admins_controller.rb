@@ -36,7 +36,7 @@ class Admin::AdminsController < AdminController
 
   def destroy
     @admin.destroy
-    redirect_to admin_admins_path
+    redirect_to admin_admins_path 
   end
   
   private
