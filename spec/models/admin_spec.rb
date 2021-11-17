@@ -12,5 +12,4 @@ RSpec.describe Admin, type: :model do
     admin = Admin.new(email: "admin@admin.com")
     expect(admin).to_not be_valid
   end
-
 end
