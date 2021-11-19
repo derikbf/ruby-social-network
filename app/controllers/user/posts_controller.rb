@@ -39,4 +39,5 @@ class User::PostsController < UserController
   def form_params
     params.require(:post).permit(:body)
   end
+
 end
