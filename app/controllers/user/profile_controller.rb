@@ -1,4 +1,5 @@
 class User::ProfileController < UserController
+  config.autoloader = :classic
 
   def show
     @post = Post.new
@@ -13,7 +14,6 @@ class User::ProfileController < UserController
     @following = current_user.following
   end
 
-  
   def followers
     @followers = current_user.followers
   end

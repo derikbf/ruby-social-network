@@ -1,4 +1,6 @@
 class User::PostsController < UserController
+  config.autoloader = :classic
+  
   skip_before_action :verify_authenticity_token, only: :like_toggle
 
   def create

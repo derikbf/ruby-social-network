@@ -1,4 +1,5 @@
 class User::CommentsController < UserController
+  config.autoloader = :classic
 
   def create
     f_params = form_params.merge(user: current_user)

@@ -1,4 +1,4 @@
-class User::SubscriptionController < UserController
+class User::SubscriptionsController < UserController
 
   def follow
     user_to_follow = User.find_by(id: params[:id])
