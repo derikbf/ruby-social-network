@@ -7,11 +7,13 @@ class User::CommentsController < UserController
     @post = @comment.post
 
     if @comment.save
-      respond_to do |format|
-        format.js { render "create" }
+        respond_to do |format|
+          format.js { render "create" }
+        end
+      else
+        render :create
       end
     end
-  end
 
   def destroy
     @comment = Comment.find_by(id: params[:id])

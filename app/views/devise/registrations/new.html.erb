@@ -23,25 +23,25 @@
             <%= f.text_field :phone, autofocus: true, autocomplete: "phone", class:" form-control" %>
           </div>
           <div class="form-group">
-            <%= f.label :email, class: 'form-label' %>
-            <%= f.email_field :email, autofocus: true, autocomplete: "email", class:" form-control" %>
-          </div>
-          <div class="form-group">
             <%= f.label :avatar, class: 'form-label' %>
             <%= f.file_field(:avatar) %>
+          </div>
+          <div class="form-group">
+            <%= f.label :email, class: 'form-label' %>
+            <%= f.email_field :email, autofocus: true, autocomplete: "email", class:" form-control" %>
           </div>
           <div class="form-group">
             <%= f.label :password, class: 'form-label' %>
             <%= f.password_field :password, autocomplete: "current-password", class: "form-control" %>
           </div>
           <div class="d-flex justify-content-center align-items-center m-0">
-            <%= f.submit 'Entrar', class: "btn btn-primary" %>
+            <%= f.submit 'Cadastrar', class: "btn btn-primary" %>
           </div>
         <% end %>
 
         <%= link_to new_user_session_path, class: "d-flex justify-content-center align-items-center mt-4" do %>
           Login
-        <% end %> 
+        <% end %>
       </div>
     </div>
   </div>

@@ -4,13 +4,13 @@
       <li class="nav-item <%= current_page?(admin_root_path)? "active" : "" %>">
         <%= link_to("Home", admin_root_path, class: "nav-link") %>
       </li>
-      <li class="nav-link" <%= current_page?(admin_admins_path)? "active" : "" %>">
+      <li class="nav-item <%= current_page?(admin_admins_path)? "active" : "" %>">
         <%= link_to("Administradores", admin_admins_path, class: "nav-link") %>
       </li>
       <li class="nav-item" <%= current_page?(admin_users_path)? "active" : "" %>">
         <%= link_to("Usuários", admin_users_path, class: "nav-link") %>
       </li>
-      <li class="nav-item" <%= current_page?(admin_posts_path)? "active" : "" %>>
+      <li class="nav-item <%= current_page?(admin_posts_path)? "active" : "" %>">
         <%= link_to("Posts", admin_posts_path, class: "nav-link") %>
       </li>
     </ul>
