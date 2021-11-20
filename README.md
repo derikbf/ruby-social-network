@@ -7,9 +7,11 @@ This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on
 <table>
   <tr>
     <td>Bootstrap</td>
-      3.0.2
+    <td>
+      5
     </td>
   </tr>
+  <tr>
   <tr>
     <td>Ruby version</td>
     <td>
