@@ -6,6 +6,11 @@ This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on
 
 <table>
   <tr>
+    <td>Bootstrap</td>
+      3.0.2
+    </td>
+  </tr>
+  <tr>
     <td>Ruby version</td>
     <td>
       3.0.2
@@ -54,7 +59,7 @@ rails s
 ```
 Open the browser at the address `http://localhost:3000`
 
-Open the browser at the address [https://ruby-blog.herokuapp.com](https://ruby-blog.herokuapp.com)
+Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/](https://ruby-blog.herokuapp.com)
 
 <!--Banner session-->
 <p align="center">
@@ -62,18 +67,18 @@ Open the browser at the address [https://ruby-blog.herokuapp.com](https://ruby-b
 </p>
 
 <!--About session-->
-<h1 align="center">Recriando o Jogo da Velha<br>Digital Innovation One</h1>
+<h1 align="center">Ruby on Rails: Montando uma rede social<br>Digital Innovation One</h1>
 
-<img src="./app/assets/images/cover.jpg" title="Ruby" width="120" height="120">
+<!-- <img src="./app/assets/images/cover.jpg" title="Ruby" width="270" height="120"> -->
 
 Curso - Ruby on Rails: Montando uma rede social [Digital Innovation One](https://digitalinnovation.one/).
 
 Nesse curso, desenvolvemos uma rede social com várias features, como:
  curtir e descurtir posts, fazer comentários, seguir e parar de seguir amigos e
-- [Curtir e descurtir posts]
-- [Criar comentários]
-- [Seguir e parar de seguir outros usuários]
-- [Fazer comentários]
+- Curtir e descurtir posts
+- Criar comentários
+- Seguir e parar de seguir outros usuários
+- Fazer comentários
 
 <p align="center"><img src="./imgs/projeto.gif" title="Jogo da Velha - DIO"></p>
 
