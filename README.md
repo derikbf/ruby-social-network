@@ -3,6 +3,7 @@
 EN: Building a Social Network using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
 
 EN: This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on Digital Innovation One. Professor Luciano Cesar Cordeiro.
+<br/><br/>
 
 <h3>👨‍💻 Technologies Used</h3>
 
@@ -42,6 +43,7 @@ EN: This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home
     </td>
   </tr>
 </table>
+<br/><br/>
 
 ## Initial settings to run the project
 
@@ -70,6 +72,7 @@ rails db:seed
 # run the project
 rails s
 ```
+<br/><br/>
 Open the browser at the address `http://localhost:3000`
 
 Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/](https://ruby-blog.herokuapp.com)
@@ -80,14 +83,14 @@ Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/]
 </p>
 
 <!--About session-->
-<h1 align="center">Ruby on Rails: Ruby on Rails: Building a social network<br>Digital Innovation One</h1>
+<h1 align="center">Ruby on Rails: Building a social network<br>Digital Innovation One</h1>
 
-Ruby on Rails: Ruby on Rails: Building a social network [Digital Innovation One](https://digitalinnovation.one/).
-
-Developed features:
+# Developed features:
 - Like and enjoy posts
 - Create comments
 - Follow and stop following other users
 - Create comments
+<br/><br/>
 
+<!-- GIF -->
 <p align="center"><img src="./app/assets/images/social-network.gif" title="Ruby - Social Network"></p>
