@@ -75,7 +75,7 @@ rails s
 <br/><br/>
 Open the browser at the address `http://localhost:3000`
 
-Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/](https://ruby-blog.herokuapp.com)
+Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/](https://dio-ruby-social-network.herokuapp.com)
 
 <!--Banner session-->
 <p align="center">
