@@ -1,8 +1,10 @@
 # Ruby - Social Network
 
-EN: Building a Social Network using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
+Building a Social Network using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
 
-EN: This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on Digital Innovation One. Professor Luciano Cesar Cordeiro.
+Obs: this social network was focused on studies in Ruby on Rails, mainly on the backend, with no effort on the frontend.
+
+This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on Digital Innovation One. Professor Luciano Cesar Cordeiro.
 <br/><br/>
 
 <h3>👨‍💻 Technologies Used</h3>
