@@ -1,21 +1,19 @@
-# Blogstrap
+# Ruby - Social Network
 
-Building a Social Network using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
+EN: Building a Social Network using Bootstrap 5 with Ruby on Rails 6 in MVC pattern.
 
-This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on Digital Innovation One. Professor Luciano Cesar Cordeiro.
+EN: This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on Digital Innovation One. Professor Luciano Cesar Cordeiro.
+
+<h3>👨‍💻 Technologies Used</h3>
 
 <table>
-  <tr>
-    <td>Bootstrap</td>
-    <td>
-      5
-    </td>
-  </tr>
-  <tr>
   <tr>
     <td>Ruby version</td>
     <td>
       3.0.2
+    </td>
+    <td>
+      https://guides.rubyonrails.org/getting_started.html
     </td>
   </tr>
   <tr>
@@ -23,11 +21,24 @@ This repository is part of the [Curso Ruby on Rails](https://web.dio.me/home) on
     <td>
       6.1.4.1
     </td>
+    <td>
+      https://guides.rubyonrails.org/getting_started.html
+    </td>
   </tr>
   <tr>
     <td>Database</td>
+    <td> PostgreSQL - Gem 1.1</td>
     <td>
-      PostgreSQL
+      https://www.postgresql.org/docs/
+    </td>
+  </tr>
+    <tr>
+    <td>Bootstrap</td>
+    <td>
+      5
+    </td>
+    <td>
+      https://getbootstrap.com/docs/5.1/getting-started/introduction/
     </td>
   </tr>
 </table>
@@ -69,29 +80,14 @@ Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/]
 </p>
 
 <!--About session-->
-<h1 align="center">Ruby on Rails: Montando uma rede social<br>Digital Innovation One</h1>
+<h1 align="center">Ruby on Rails: Ruby on Rails: Building a social network<br>Digital Innovation One</h1>
 
-<!-- <img src="./app/assets/images/cover.jpg" title="Ruby" width="270" height="120"> -->
+Ruby on Rails: Ruby on Rails: Building a social network [Digital Innovation One](https://digitalinnovation.one/).
 
-Curso - Ruby on Rails: Montando uma rede social [Digital Innovation One](https://digitalinnovation.one/).
+Developed features:
+- Like and enjoy posts
+- Create comments
+- Follow and stop following other users
+- Create comments
 
-Nesse curso, desenvolvemos uma rede social com várias features, como:
- curtir e descurtir posts, fazer comentários, seguir e parar de seguir amigos e
-- Curtir e descurtir posts
-- Criar comentários
-- Seguir e parar de seguir outros usuários
-- Fazer comentários
-
-<p align="center"><img src="./imgs/projeto.gif" title="Jogo da Velha - DIO"></p>
-
-<h3>👨‍💻 Tecnologias utilizadas</h3>
-
-- BACKEND
-- [RUBY ON RAILS](https://guides.rubyonrails.org/getting_started.html)
-
-- FRONTEND
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+<p align="center"><img src="./app/assets/images/social-network.gif" title="Ruby - Social Network"></p>
