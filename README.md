@@ -83,7 +83,7 @@ Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/]
 </p>
 
 <!--About session-->
-<h1 align="center">Ruby on Rails: Building a social network<br>Digital Innovation One</h1>
+<h2 align="center">Ruby on Rails: Building a social network<br>Digital Innovation One</h2>
 
 ## Developed features:
 - Like and enjoy posts
