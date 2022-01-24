@@ -96,3 +96,8 @@ Open the browser at the address [https://dio-ruby-social-network.herokuapp.com/]
 
 <!-- GIF -->
 <p align="center"><img src="./app/assets/images/social-network.gif" title="Ruby - Social Network"></p>
+
+<!-- Certificado DIO -->
+<p align="center">
+  <img src="./app/assets/images/certificado-dio.png" alt="Certificado DIO" title="Certificado DIO - Ruby on Rails">
+</p>
